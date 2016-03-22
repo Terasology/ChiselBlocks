@@ -3,7 +3,7 @@ This repository containing images and other creative works is under this custom 
 ## Section 1. Definitions
 a. Owner: The owner is Drullkus, he and he alone can change the license at any time. 
 
-b. Licensed Material: This license covers all images, sounds, and text files in this repository. Any derivatives from this repository falls under this custom license. Any materials not originating from this Licensed Material are not covered by this license.
+b. Licensed Material: This license covers all images, sounds, and text files in this repository. Any derivatives from this repository falls under this custom license. Any materials not originating from this repository are not covered by this license.
 
 c. Copyright and Similar Rights: Copyright and/or similar rights closely related to copyright including, without limitation, performance, broadcast, sound recording, and Sui Generis Database Rights, without regard to how the rights are labeled or categorized.
 
