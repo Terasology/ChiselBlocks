@@ -25,10 +25,3 @@ e. Distribution of Licensed Material is not permitted unless with explicit permi
 f. The owner reserves the right to revoke Your right to this Licensed Material with or without reason or explanation. This includes and does override explicit permission for Your usage of content, regardless of evidence.
 
 h. Any materials not originating from this Licensed Material are not covered by this license.
-
-g. Section 3 is a list of Entities or Individuals who have obtained the rights to distribute this Licensed Material. The owner reserves the right to revoke these rights at ant time.
- 
-## Section 3. Entities or Individuals with rights to distribute this Licensed Material.
-a. Any websites owned by Curse Incorporated have the owner's permission to distribute this Licensed Material.
-
-b. The users tterrag1098, TheCricket26, and minecreatr on github have the owner's permission to distribute this Licensed Material.
