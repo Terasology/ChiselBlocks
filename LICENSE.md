@@ -1,4 +1,4 @@
-The Textures in the [assets/chisel/textures/items](https://github.com/Drullkus/Chisel-Textures/tree/master/assets/chisel/textures/items) folder do not fall under this license. They originate from [Inap/Yulife](https://github.com/Yulife) and are used with permission.
+The Textures in the [assets/chisel/textures/items](https://github.com/Drullkus/Chisel-Textures/tree/master/assets/chisel/textures/items) and [assets/chisel/textures/blocks/bloodMagic](https://github.com/Drullkus/Chisel-Textures/tree/master/assets/chisel/textures/blocks/bloodMagic) folders do not fall under this license. They originate from [Inap/Yulife](https://github.com/Yulife) and are used with permission.
 
 Everything else found in this repository, namely the textures are licensed under the [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International Public License](http://creativecommons.org/licenses/by-nc-nd/4.0/) (CC BY-NC-ND 4.0). For your convenient reference, the license has been pasted below [from here](https://github.com/idleberg/Creative-Commons-Markdown).
 
